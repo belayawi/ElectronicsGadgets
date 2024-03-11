@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElectronicGadgets</string>
+    <string name="view_cart">View Cart</string>
+    <string name="product_image">Product description</string>
+    <string name="product_logo">product logo</string>
+    <string name="productCostDetail">Test</string>
+    <string name="home_button">Home</string>
+</resources>
